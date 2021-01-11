@@ -265,3 +265,15 @@ color: #000;
 transform: rotateY(360deg);
     }
 } */
+
+a{
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    margin: 20px auto;
+    color: #b4242b;
+    transition: all 0.5s linear;
+
+}
+a:hover{
+    border-bottom: 2px solid coral;}
